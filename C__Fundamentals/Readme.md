@@ -3,3 +3,7 @@
   - Version Check
   - Introduction
   - Course Overview
+  - Why C++?
+  - Not Too Hard for Beginners
+  - The Standard Library
+  - Modern C++
