@@ -8,3 +8,7 @@
   - The Standard Library
   - Modern C++
   - Standardization
+## 3. Tools
+  - Introduction
+  - What Do You Need?
+  - Building
