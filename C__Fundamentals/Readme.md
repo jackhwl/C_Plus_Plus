@@ -7,3 +7,4 @@
   - Not Too Hard for Beginners
   - The Standard Library
   - Modern C++
+  - Standardization
