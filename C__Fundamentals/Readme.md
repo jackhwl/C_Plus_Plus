@@ -25,4 +25,7 @@
   - Kinds of Applications
   - Demo: Visual Studio Hello World
   - Console Application Structure
-  
+  - Demo: Creating a Project
+  - Summary
+## 4. Variables and Fundamental Types
+  - Introduction
