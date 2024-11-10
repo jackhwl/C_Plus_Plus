@@ -21,3 +21,6 @@
       - Visual Studio Code
       - CLion
     - Online compilers
+  - Visual Studio
+  - Kinds of Applications
+  
