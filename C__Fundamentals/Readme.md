@@ -23,4 +23,6 @@
     - Online compilers
   - Visual Studio
   - Kinds of Applications
+  - Demo: Visual Studio Hello World
+  - Console Application Structure
   
