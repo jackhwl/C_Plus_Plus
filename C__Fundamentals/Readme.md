@@ -34,3 +34,5 @@
     - User defined types
       - Strings, dates, business objects
       - Structs and classes
+  - Fundamental Types
+  - Auto
