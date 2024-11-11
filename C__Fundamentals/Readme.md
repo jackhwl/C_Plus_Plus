@@ -29,3 +29,8 @@
   - Summary
 ## 4. Variables and Fundamental Types
   - Introduction
+  - Languages Basics - Variables
+    - Numbers, boolean, sigle characters.
+    - User defined types
+      - Strings, dates, business objects
+      - Structs and classes
