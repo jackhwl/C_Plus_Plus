@@ -36,3 +36,5 @@
       - Structs and classes
   - Fundamental Types
   - Auto
+  - Demo: Funcdamental Types
+  - Casting
