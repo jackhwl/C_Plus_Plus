@@ -42,3 +42,4 @@
   - Introduction
   - Building
   - Classes and Objects
+  - Demo: Classes and Objects
