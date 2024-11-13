@@ -41,3 +41,4 @@
 ## 5. Language Basics - User Defined Types
   - Introduction
   - Building
+  - Classes and Objects
