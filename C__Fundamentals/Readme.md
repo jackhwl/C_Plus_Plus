@@ -44,4 +44,6 @@
   - Classes and Objects
   - Demo: Classes and Objects
   - Constructors
-  
+  - Demo: Constructors
+  - Scope
+  - Demo: Scope
