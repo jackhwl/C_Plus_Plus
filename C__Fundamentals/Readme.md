@@ -47,3 +47,5 @@
   - Demo: Constructors
   - Scope
   - Demo: Scope
+  - Struct
+  
