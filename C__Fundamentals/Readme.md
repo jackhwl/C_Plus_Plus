@@ -51,4 +51,5 @@
   - Namespaces
   - Demo: Namespaces
   - Inheritance
-  - Enum
+  - Enumerations
+  - Demo: Enumerations
