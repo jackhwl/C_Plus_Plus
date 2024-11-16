@@ -49,3 +49,5 @@
   - Demo: Scope
   - Struct
   - Namespaces
+  - Demo: Namespaces
+  - Inheritance
