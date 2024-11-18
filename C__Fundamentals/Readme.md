@@ -63,3 +63,7 @@
   - For
   - Switch
   - Immediate If
+  - Summary
+## 7. Language Basics - Functions
+  - Introduction
+  - Free Functions
