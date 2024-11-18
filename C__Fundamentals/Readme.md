@@ -61,3 +61,5 @@
   - If
   - While
   - For
+  - Switch
+  - Immediate If
