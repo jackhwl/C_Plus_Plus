@@ -58,3 +58,6 @@
 ## 6. Language Basics - Flow of Control
   - Introduction
   - Flow of Control
+  - If
+  - While
+  - For
