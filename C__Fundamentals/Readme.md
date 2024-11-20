@@ -67,4 +67,6 @@
 ## 7. Language Basics - Functions
   - Introduction
   - Free Functions
-  - Demo: Free Functions
+  - Demo: Free Functio
+  - Member Functions
+  
