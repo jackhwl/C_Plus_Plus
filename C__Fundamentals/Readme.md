@@ -70,3 +70,5 @@
   - Demo: Free Functio
   - Member Functions
   - Understanding Error Messages
+  - Demo: Understandin Error Messages
+  - Causes of Error Messages
