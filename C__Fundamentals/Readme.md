@@ -75,3 +75,5 @@
 ## 8. Language Basics - Operators
   - Introduction
   - Arithmetic
+  - Demo: Arithmetic
+  - Comparisons
