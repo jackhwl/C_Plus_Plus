@@ -69,4 +69,4 @@
   - Free Functions
   - Demo: Free Functio
   - Member Functions
-  
+  - Understanding Error Messages
