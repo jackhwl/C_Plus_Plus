@@ -72,3 +72,6 @@
   - Understanding Error Messages
   - Demo: Understandin Error Messages
   - Causes of Error Messages
+## 8. Language Basics - Operators
+  - Introduction
+  - Arithmetic
