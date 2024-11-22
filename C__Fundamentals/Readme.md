@@ -77,3 +77,4 @@
   - Arithmetic
   - Demo: Arithmetic
   - Comparisons
+  - Demo: Comparisons
