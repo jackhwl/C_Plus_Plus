@@ -78,3 +78,4 @@
   - Demo: Arithmetic
   - Comparisons
   - Demo: Comparisons
+  - Bitwise Operators
