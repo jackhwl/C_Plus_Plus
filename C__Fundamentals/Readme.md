@@ -82,3 +82,6 @@
   - Operator Overloading
   - Writing an Overload
   - Demo: Writing an Overload
+## 9. Templates
+  - Introduction
+  - Templates
