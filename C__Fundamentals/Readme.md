@@ -85,3 +85,5 @@
 ## 9. Templates
   - Introduction
   - Templates
+  - Template Functions
+  - Demo: Template Function
