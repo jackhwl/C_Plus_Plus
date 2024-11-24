@@ -87,3 +87,5 @@
   - Templates
   - Template Functions
   - Demo: Template Function
+  - Template Classes
+  - Demo: Template class
