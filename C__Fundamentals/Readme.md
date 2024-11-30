@@ -105,3 +105,5 @@
   - The Free Store
   - Demo: The Free Store
   - Manual Memory Management
+  - Demo: Manual Memory Management
+  - Easy Memory Management
