@@ -102,3 +102,4 @@
   - Demo: Const with Indirection
 ## 11. Memory Management
   - Introduction
+  - The Free Store
