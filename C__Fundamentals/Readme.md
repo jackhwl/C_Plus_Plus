@@ -108,4 +108,4 @@
   - Demo: Manual Memory Management
   - Easy Memory Management
   - Standard Library Smart Pointers
-  
+  - Demo: Standard Library Smart Pointers
