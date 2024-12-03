@@ -109,3 +109,6 @@
   - Easy Memory Management
   - Standard Library Smart Pointers
   - Demo: Standard Library Smart Pointers
+## 12. Indirection and Inheritance
+  - Introduction
+  - References and Inheritance
