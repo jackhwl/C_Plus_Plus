@@ -112,3 +112,4 @@
 ## 12. Indirection and Inheritance
   - Introduction
   - References and Inheritance
+  - Pointers and Inheritance
