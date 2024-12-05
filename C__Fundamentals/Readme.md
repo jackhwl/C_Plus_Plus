@@ -113,3 +113,4 @@
   - Introduction
   - References and Inheritance
   - Pointers and Inheritance
+  - Demo: Indriection and Inheritance
