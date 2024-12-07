@@ -116,3 +116,4 @@
   - Demo: Indriection and Inheritance
   - Slicing
   - Demo: Slicing
+  - Casting and Indirection
