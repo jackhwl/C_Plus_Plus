@@ -117,3 +117,4 @@
   - Slicing
   - Demo: Slicing
   - Casting and Indirection
+  - Demo: Casting and Indirection
