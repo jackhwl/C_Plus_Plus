@@ -115,3 +115,4 @@
   - Pointers and Inheritance
   - Demo: Indriection and Inheritance
   - Slicing
+  - Demo: Slicing
